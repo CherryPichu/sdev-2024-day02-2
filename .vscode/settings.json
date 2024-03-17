@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "pcap-inttypes.h": "c",
+        "funcattrs.h": "c",
+        "bpf.h": "c",
+        "time.h": "c",
+        "types.h": "c",
+        "pcap-test.h": "c",
+        "pcap.h": "c",
+        "stdint.h": "c"
+    }
+}

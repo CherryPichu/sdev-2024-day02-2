@@ -1,0 +1,7 @@
+*.o
+*.stash
+*.user
+Makefile
+pcap-test
+./libnet
+./libpcap-1.10.4
