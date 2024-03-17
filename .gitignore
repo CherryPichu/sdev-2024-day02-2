@@ -3,5 +3,5 @@
 *.user
 Makefile
 pcap-test
-./libnet
-./libpcap-1.10.4
+./libnet/*
+./libpcap-1.10.4/*
